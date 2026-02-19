@@ -28,7 +28,7 @@ const experiences = [
     role: "Full Stack Lead Engineer",
     description: "Led development of multiple client projects, architected scalable solutions, and mentored team members while delivering high-quality web and mobile applications.",
     skills: ["Angular", "React", "React Native", "Supabase", "GSAP", "TypeScript"],
-    url: "https://www.swiftdev.agency/",
+    url: "https://swiftdev.studio/",
   },
   {
     period: "25",

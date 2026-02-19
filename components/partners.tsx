@@ -23,7 +23,7 @@ const partners = [
     name: "Swift Development",
     type: "Agency",
     logo: "/images/swiftdevlogo-20no-20bg.webp",
-    url: "https://www.swiftdev.agency/",
+    url: "https://swiftdev.studio/",
     preview: "/images/swiftdev-cover.webp",
     logoSize: "h-24 sm:h-32",
     pageUrl: "/projects/swiftdev-studio",

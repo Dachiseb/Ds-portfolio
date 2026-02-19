@@ -56,7 +56,7 @@ export default function SwiftDevStudioPage() {
             <div>
               <h3 className="text-sm font-medium text-muted-foreground mb-2">Link</h3>
               <a 
-                href="https://swiftdevstudio.vercel.app/" 
+                href="https://swiftdev.studio/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-lg text-accent hover:underline"
